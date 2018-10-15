@@ -1,0 +1,16 @@
+# outline
+---------------
+
+assuming only python >=3.x
+
+python scripting vs terminal
+interactive terminal
+
+basic data types: str,int,float,list,tuple,dict
+basic arithmetic:
+
+std modules: os, sys, numpy, cython, json, csv, matplotlib, datetime
+
+functions (basics)
+
+pythonic coding
