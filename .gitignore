@@ -1,2 +1,4 @@
-_temp_
-Day3-Website/website/someTemplates/
+*_temp_*
+*__pycache__*
+.log
+*backups*
