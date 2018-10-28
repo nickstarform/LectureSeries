@@ -1,15 +1,25 @@
 # outline
 -------------------
 
-Website basic
-HTML CSS JS AJAX
+> ~15 minute
 
-testing a website locally
+# Website basics
+> HTML CSS(SCSS) JS JQUERY AJAX RoR
 
-current web (nhn.ou.edu)
-place stuff in public_html
-how to protect webpages with htpasswd
+# creation
+> website/
+> can use makefile with config.py
+> testing a website locally
+> example is provided in examples/
+> not too fancy
 
-new web (create.ou.edu) [suggested]
-how to create
-what other features are there?
+# hosting your own (NHN)
+> current web (nhn.ou.edu)
+> place stuff in /home/username/public_html
+> how to protect webpages with htpasswd
+
+# hosting your own (create.ou.edu)
+> new web (create.ou.edu) [suggested]
+> how to create
+> what other features are there?
+

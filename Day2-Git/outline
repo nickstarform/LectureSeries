@@ -1,28 +1,22 @@
 # Lecture outline
 ---------------------
 
-what is git
+> Why use version control?
 
+> what is git
 
+# basic
+> status, add, commit
 
-git
+# other common
+> clone, push, pull, fetch, merge, rebase, init
 
-status
-add
-commit
-log
-reset
-checkout
-branch
-push
-pull
-fetch
-merge
+# less common
+> log reset checkout branch
 
-
-github
-pull request
-comments
-groups
-boards
-
+# github usage
+> repos
+> markdown
+> issues, groups
+> pull requests, comments
+> boards

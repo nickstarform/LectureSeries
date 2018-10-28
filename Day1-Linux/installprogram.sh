@@ -65,3 +65,5 @@ echo "Files can be found in ${cwd}/bin"
 echo "Add this to your path via "
 echo "export PATH=\"${cwd}/bin:\${PATH}\""
 echo "or adding to your ~/.bashrc or ~/.bash_profile"
+
+# end of file

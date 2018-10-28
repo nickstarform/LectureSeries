@@ -6,18 +6,13 @@
 
 # Slide 
 
-echo "This file is for testing seed and awk" >> sedawk.txt
+ssh username@login.nhn.ou.edu
+# try to open caja ./
+ssh -XY username@login.nhn.ou.edu
+# try again
 
-# made an error lets fix it
+# while ssh issue vncserver
+# take note of the computer (hostname) and which display (:1)
+vncviewer -via username@login.nhn.ou.edu computer:display
 
-sed -i.backup 's/seed/sed/g' sedawk.txt
-
-cat sedawk.txt
-
-awk -F' ' '{ print "Created with "$6 " and read with "  $8 }' sedawk.txt
-
-find . name -type f
-
-which sed
-
-
+# end of file

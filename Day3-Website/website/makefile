@@ -12,6 +12,7 @@ regen:
 clean: 
 	${RM} -f ./*.log 
 	${RM} -f ./build/*
+	${RM} -rf __pycache__
 
 update:
 	git pull origin master

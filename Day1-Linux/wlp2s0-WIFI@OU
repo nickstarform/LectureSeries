@@ -1,0 +1,17 @@
+Description='WIFI@OU'
+Interface=wlp2s0
+Connection=wireless
+Security=wpa-configsection
+ESSID='WIFI@OU'
+IP=dhcp
+
+WPAConfigSection=(
+    'ssid="WIFI@OU"'
+    'key_mgmt=WPA-EAP'
+    'eap=PEAP'
+    'identity="OU4x4"'
+    'password="OUPassword"'
+    'priority=2'
+    'phase2="auth=MSCHAPV2"'
+)
+
