@@ -1,21 +1,36 @@
 # outline
 ---------------
+## follow along with `examples.py`
 
-assuming only python >=3.x
+## python
+> high level OOP (multiparadigm)
+> everything is an object!
+> might have to get used to this (very abstract)
 
-python scripting vs terminal
-interactive terminal
+## versioning
+> 2.x vs 3.x
+> assuming only python == 3.x
 
-basic data types: str,int,float,list,tuple,dict
-basic arithmetic:
+## pip
+> using pip
+> modules to get: cython, numpy, matplotlib, scipy
+> other good modules: sklearn, emcee, jupyter (astronomers: astropy, astroquery, aplpy)
+> common modules: csv, json, os, sys, math, datetime, IPython, re, pickle, multiprocessing, multithreading
 
-std modules: os, sys, numpy, cython, json, csv, matplotlib, datetime
+## Data Types
+> basic: str,int,float,list,tuple
+> common: sets, dict, any custom class
 
-functions (basics)
+## math
+> basic arithmetic: ` + - * ** / % `
 
-pythonic coding
+## functions
+> go over basics 
+> advanced: `lambda`, `map`, `filter`
 
+## importing
+> any file with `import`
+> store classes, functions, variables
 
-
-
-https://syntaxdb.com/ref/python/inheritance
+## plotting
+> plot some basic code.

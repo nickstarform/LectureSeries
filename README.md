@@ -1,11 +1,11 @@
 # Lecture Series
 -----------------
 
-The subsequent documents will be updated as the day continues
-
 This series was created to address questions from various members of the OU Physics and Astronomy department. This will not give you a comprehensive knowledge of all things Linux/coding, but is aimed to give you a working knowledge of various systems. 
 
 The series is aimed at 5 x 30min lectures with working examples and slides for interactive sessions.
+
+## Each day has an `outline` file and a `README.md`. The `README.md` explains what each file and dir do. The outline details what the lecture is covering
 
 ## Day 1: Linux
  Basic Linux Tutorial: What is Linux? Most used commands, navigation, setting/manipulating your environment, locally installing programs without root permission, ssh vs vnc

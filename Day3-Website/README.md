@@ -1,13 +1,12 @@
-# Website info the grad students
+# Website Lecture
+-----------------
 
-Just copy the directory to the location you want to host the website from
-
-Fill out the config.json file and then run the generate_website.py file to generate your website
-
-place all images needed within your src/img directory
-
-The way this works, pulls files from src -> uses python to generate new data -> writes to build
-
-Once complete, just use the files within build to load the website
-
-To build the website, just run `make`
+# Files
+> `outline` <-- outline of the lecture
+> `examples/nick_website` <-- example website using the file `example_config.py`
+> `website/config.py` <-- fill out the details in this file
+> `website/build` <-- where your website will be built to 
+> `website/src` <-- holds all the source info for the website
+> `website/src/img` <-- place your images here
+> `csscheatsheet.pdf` <-- A css cheat sheet to help you out if you want to customize
+> `html5cheatsheet.pdf` <-- A html5 cheat sheet to help out if you want to customize
