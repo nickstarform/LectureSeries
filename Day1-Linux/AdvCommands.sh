@@ -4,12 +4,14 @@
 # It goes through some more advanced commands that will be used
 # and that the users should be comfortable with
 
-# Slide 
-
+# ssh'ing into the nhn system
 ssh username@login.nhn.ou.edu
-# try to open caja ./
+# try to open caja ./ it fails since no GUI
+
+# now allow gui
 ssh -XY username@login.nhn.ou.edu
 # try again
+# caja ./
 
 # while ssh issue vncserver
 # take note of the computer (hostname) and which display (:1)
