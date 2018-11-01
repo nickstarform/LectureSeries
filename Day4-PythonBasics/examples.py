@@ -158,6 +158,7 @@ plt.show()
 
 # END OF DAY 1 (MOSTLY)
 # Below is extra if you want to go ahead
+#######################################################
 
 # slighly more advanced functions
 def crossings(x, func1, func2, arg1: tuple, arg2: tuple):

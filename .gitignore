@@ -17,6 +17,7 @@
 ##########
 *__pycache**
 *.pyc
+.ipynb_checkpoints
 
 # Packages #
 ############
@@ -48,6 +49,7 @@ package-lock.json
 # misc files #
 ##############
 *_temp_*
+del
 *.log
 *backups*
 *carousel.html
