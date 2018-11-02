@@ -6,7 +6,7 @@ import math
 
 def calc():
     """Calculate the first 4M sqrts."""
-    for i in range(0, 4E6):
+    for i in range(0, int(4E7)):
         math.sqrt(i)
 
 threads = []
