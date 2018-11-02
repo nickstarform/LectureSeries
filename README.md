@@ -21,3 +21,20 @@ Controlling Python Versions/What are the differences. How to use pip and what mo
 
 ## Day 5: Python part 2
  Complex Functions, defining classes, module creation, multithreading vs multiprocessing
+
+# Files
+--------
+
+> `makefile` <-- provides a clean way to clean/generate the python lectures
+> `Day1-Linux` <-- Holds misc info/problems for day 1
+> `Day2-Git` <-- Holds misc info/problems for day 2
+> `Day3-Website` <-- Holds the template websites and example for day 3
+> `Day4-PythonBasics` <-- Holds misc info/problems for day 4
+> `Day5-PythonAdvanced` <-- Holds misc info/problems for day 4
+> `LectureSeries-Linux.pdf` <-- First Lecture
+> `LectureSeries-git.pdf` <-- Second Lecture
+> `LectureSeries-website.pdf` <-- Third Lecture
+> `LectureSeries-python1.ipynb` <-- Fourth Lecture
+> `LectureSeries-python2.ipynb` <-- Fifth Lecture
+> `.git` <-- The common git directory
+> `.gitignore` <-- Gitignore file to ignore some temp/misc build paths not needed
