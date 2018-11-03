@@ -16,7 +16,11 @@
 
 # github usage
 > repos
+
 > markdown
+
 > issues, groups
+
 > pull requests, comments
+
 > boards
