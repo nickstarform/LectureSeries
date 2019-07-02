@@ -53,3 +53,5 @@ del
 *.log
 *backups*
 *carousel.html
+*.out
+
